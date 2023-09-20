@@ -1,8 +1,14 @@
 # Ayushman Choudhury
 
 Hello! I'm a junior at Brown University (Class of 2025), studying Applied Mathematics, Computer Science, and Music.
-I'm most at home with Python, R, and MATLAB, but I have prior experience in Java, C/C++, SQL, Angular (HTML/CSS/TypeScript).
-Looking for internship or research opportunities where I can apply my love of mathematical puzzles, aided by modern computational power, to help communities and society at large.
+
+I'm currently finding myself at home with Python, R, and MATLAB, but I have prior experience in Java, C/C++, SQL, Angular (HTML/CSS/TypeScript). My long-term goal is to apply my love of mathematical puzzles, aided by modern computational power, to help communities and society at large.
+
+Currently looking for summer internships or research opportunities!
+
+Links:
+- [LinkedIn](https://www.linkedin.com/in/ayushman-choudhury/)
+- [Resume (on cs.brown.edu)](https://cs.brown.edu/media/resumes/achoud24.pdf)
 
 <!--
 **AyushmanChoudhury03/AyushmanChoudhury03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
