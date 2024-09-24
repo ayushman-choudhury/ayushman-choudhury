@@ -1,10 +1,12 @@
 # Ayushman Choudhury
 
-Hello! I'm a junior at Brown University (Class of 2025), studying Applied Mathematics, Computer Science, and Music.
+Hello! I'm a senior at Brown University (Class of 2025), studying Applied Mathematics, Computer Science, and Music.
 
-I'm currently finding myself at home with Python, R, and MATLAB, but I have prior experience in Java, C/C++, SQL, Angular (HTML/CSS/TypeScript). My long-term goal is to apply my love of mathematical puzzles, aided by modern computational power, to help communities and society at large.
+I've begun to find myself at home with Python, R, and MATLAB, but I have prior experience in Java, C/C++, SQL, and Angular (HTML/CSS/TypeScript). On the math front, highlights of my studies include Dynamical Systems, Computational Statistics, Numerical Optimization, Ordinary and Partial Differential Equations, Computational Linear Algebra, and Real Analysis. My long-term goal is to apply my love of mathematical puzzles, aided by modern computational power, to help communities and society at large.
 
-Currently looking for summer internships or research opportunities!
+I'm conducting research in the [Freilich Lab](https://mara-freilich.github.io/) at Brown University for my senior thesis, investigating the impacts of mesoscale eddies on the flux dynamics of the Southern Ocean. I'm also a Data Science Fellow with Brown's growing [Data Science Institute](https://dsi.brown.edu/), working on an individual project with EEPS Professor Seda Salap-Ayca. This past summer, I was a researcher at Washington University in St. Louis in the Biomedical Informatics and Data Science program, working with Professor [Linying Zhang](https://linyingzhang.com/) to investigate socio-economic impacts on food allergy hospitalizations using Causal Inference.
+
+Currently looking for post-graduation research opportunities!
 
 Links:
 - [LinkedIn](https://www.linkedin.com/in/ayushman-choudhury/)
