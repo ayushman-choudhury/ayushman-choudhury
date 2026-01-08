@@ -2,7 +2,7 @@
 
 Hello there! I'm Ayushman Choudhury. I'm a first-year PhD Student at the University of Chicago's [Department of Geophysical Sciences](https://geosci.uchicago.edu), advised by [Professor B. B. Cael](https://geosci.uchicago.edu/people/b-b-cael/). I'm currently researching Ocean Alkalinity Enhancement; my broader goal is to bring a mathematical and data-driven voice to finding interdisciplinary solutions to our climate crisis.
 
-[LinkedIn Profile](https://www.linkedin.com/in/ayushman-choudhury/)   &nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;&nbsp;  CV   &nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;&nbsp;   Email: ayushmanc@uchicago.edu
+[LinkedIn Profile](https://www.linkedin.com/in/ayushman-choudhury/)   &nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;&nbsp;  [CV](cv.pdf)   &nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;&nbsp;   Email: ayushmanc@uchicago.edu
 
 Pronouns: he/him
 
